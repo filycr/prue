@@ -8,6 +8,12 @@
     background: url('../img/bg.jpg') no-repeat;
     background-size: cover;
   }
+
+  
+  .backvcm {
+    background: url('../img/bg_kvcm.jpg') no-repeat;
+    background-size: cover;
+    }
   
   .box {
     width: 500px;
