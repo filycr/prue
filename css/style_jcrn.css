@@ -5,7 +5,7 @@
   }
   
   body {
-    background: url('img/iguana_bot.png') no-repeat;
+    background: url('../img/iguana_bot.png') no-repeat;
     background-size: cover;
   }
   
